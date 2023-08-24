@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@900&family=Merriweather&family=Open+Sans:wght@500&display=swap');
+body
+{
+    margin:0px;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Merriweather', serif;
+    /* background-color:cornflowerblue */
+   
+
+}
+.navigation-bar
+{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+
+}
+.myname
+{
+    font-family: 'Inter', sans-serif;
+font-family: 'Merriweather', serif;
+ font-weight: bolder;
+ font-size: 50px;
+  color: #80dce8;
+
+}
+.mymenu
+{
+    text-transform: uppercase;
+    color: black;
+    font-weight: bolder;
+    font-size: 20px;
+    letter-spacing: 1.5px;
+}
+.mymenu:hover
+{
+    color: #80dce8;
+}
+#home
+{
+    margin-top: 70px;
+}
+.dv
+{
+    height: 100%;
+    width: 100%;
+    margin-top:30%;
+}
+.info
+{
+    margin-top: 10%;
+    /* margin-left: 10%;
+    margin-bottom: 20%; */
+    padding-left: 10%;
+    width: 100%;
+}
+.hminfo
+{
+    font-size: 30px;
+    font-style: oblique;
+    font-size: xx-large;
+    
+    color: rgb(25, 26, 23);
+   
+}
+.hmname
+{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Merriweather', serif;
+     font-weight: bolder;
+     font-size: 30px;
+      color: rgba(252, 219, 9, 0.8);
+}
